@@ -19,7 +19,7 @@
 
 
 
-:pushpin: 轻量本地图床，使用node.js+Express+JQuery+UIKit+AJAX开发，面向用户的网络图床服务。http://pan.yang99.top/
+:pushpin: 轻量本地图床/云盘，使用node.js+Express+JQuery+UIKit+AJAX开发，面向用户的网络图床服务。http://pan.yang99.top/
 
 :wrench: 如果你遇到任何问题，都可以通过博客与我沟通！  http://www.yang99.top/index.php/archives/31/
 :bookmark: Cloud_Yang使用Apache 2.0协议，您可以自由进行个人/商业使用，但因各种原因造成的后果~~雨我无瓜~~请自行承担。
